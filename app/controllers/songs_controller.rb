@@ -1,1 +1,2 @@
-class SongsController 
+class SongController < ApplicationController
+end
